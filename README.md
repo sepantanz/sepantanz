@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sepanta Noroozian
-- 👀 I’m interested in web development and AI programming
+- 👀 I’m interested in web development with Asp.Net Core, Django and Nodejs
 - 🌱 I’m currently learning Full-stack web development, C#, JavaScript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
